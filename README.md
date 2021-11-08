@@ -13,3 +13,5 @@ Identified the benchmark stores to test the impact of the trial store layouts on
 
 ### 3. Analytics and commercial application
 Created a report for Category Manager to identify the segment to be focussed more and the segment which can be kept out of focus for a while.
+
+![image](https://user-images.githubusercontent.com/73750698/140772730-65134964-8e94-4712-a69f-c8f160fd40c8.png)
