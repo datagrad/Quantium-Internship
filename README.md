@@ -1,4 +1,7 @@
 # Quantium-Internship
+
+<a href="https://datagrad.github.io/"><img src="https://img.shields.io/badge/My%20Data%20Science%20Projects-Click%20here%20to%20Check%20my%20other%20Projects-blue">
+
 ## Data Analytics Virtual Experience Program
 
 Completed over the period of July 2021 to August 2021
